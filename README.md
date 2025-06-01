@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> I'm on the job market! If you're looking to hire for software engineering, machine learning, or data science roles, please view my LinkedIn and reach out to me! 
+> I'm on the job market! If you're looking to hire for software engineering, machine learning, or data science roles, please view my wesbite or LinkedIn and reach out to me! 
 
 I am a Research Engineer currently specializing in AI Safety evals and end-to-end ML. 
 
